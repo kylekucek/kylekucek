@@ -1,8 +1,8 @@
 ## Technologies
 Adobe AfterEffects • Illustrator • InDesign • Photoshop • Premiere
-Autodesk Maya • Mudbox • MotionBuilder
-Blender
+<br>Autodesk Maya • Mudbox • MotionBuilder
+<br>Blender
+#### Programming: ####
+HTML5/CSS, Javascript, Python, some C#
 
-## Hobbies
-
-## Music
+## Now Playing
